@@ -1,0 +1,59 @@
+/*
+	selector{
+		properties: values;
+	}
+	
+
+*/
+	/*commments here*/
+
+h1{
+	color:blue;
+}
+
+p{
+	background:black;
+	color:white;
+}
+
+#first{
+	color:red;
+
+}
+
+#second{
+	color:lime;
+}
+
+#third{
+	color:blue;
+}
+
+.div{
+	background:#ccc;
+}
+
+
+/*
+List of CSS selectors:
+	Tag selection
+	ID selection
+	Class selection
+	Attribute selection
+	* selector
+*/
+
+
+input[type="search"]{ /* attribute selection*/
+	background:red;
+}
+
+
+*{
+	margin:0;
+	paddding:0;
+}
+
+section *{
+	height:50px
+}

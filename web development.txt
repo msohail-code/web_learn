@@ -1,0 +1,53 @@
+Web development
+
+->Backend
+	->Server
+	->PHP
+	->Git
+	->Python
+
+
+-> FrontEnd
+	->HTML
+	->CSS
+	->Javascript
+	->Bootstrap
+->WordPress
+
+
+HTML(hypertext markup language) Tags;
+image
+heading tags
+paragraph tags
+divisions tags
+section 
+table
+form
+input
+List (ordered and unordered)
+Video iframe
+
+
+CSS (cascading stylesheet):
+	Syntax (inline, external, internal)
+	Selectors
+	ID selector
+	Class selector
+	Attribute Selectors
+	Animations
+	some CSS properties
+	
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
